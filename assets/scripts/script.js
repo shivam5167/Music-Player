@@ -14,18 +14,18 @@ let songIndex = 0;
 // Songs info
 const songs = [
   {
-    title: 'Green Chair',
-    artist: 'Diego Nava',
+    title: 'Perfect',
+    artist: 'Ed Sherran',
     coverPath: 'assets/images/cover1.jpg',
     discPath: 'assets/music/music1.mp3',
-    duration: '1:33',
+    duration: '4:21',
   },
   {
-    title: 'Dance with Me',
-    artist: 'Ahjay Stelino',
+    title: 'Tum Se Hi',
+    artist: 'Mohit Chauhan',
     coverPath: 'assets/images/cover2.jpg',
     discPath: 'assets/music/music2.mp3',
-    duration: '2:22',
+    duration: '5:23',
   },
   {
     title: 'Gimme that Bottle',
